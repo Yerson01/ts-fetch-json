@@ -1,0 +1,22 @@
+{
+  "name": "ts-fetch-json",
+  "version": "1.0.0",
+  "description": "Fetching json with axios using typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yerson01/ts-fetch-json.git"
+  },
+  "author": "Yerson Soto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yerson01/ts-fetch-json/issues"
+  },
+  "homepage": "https://github.com/Yerson01/ts-fetch-json#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
